@@ -1,24 +1,7 @@
-# counter
+# counter-vue2-webpack
 
-## Project setup
-```
-npm install
-```
+Live [demo](https://counter-vue2-webpack.vercel.app/) of smart contract [Counter](src/contracts/counter.ts) integrated with [Vue](https://vuejs.org/) 2.x bundled with [Webpack](https://webpack.js.org/).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+The project scaffold was created with the following command. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://aaron67-public.oss-cn-beijing.aliyuncs.com/202307300056377.png)
