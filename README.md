@@ -4,4 +4,8 @@ Live [demo](https://counter-vue2-webpack.vercel.app/) of smart contract [Counter
 
 The project scaffold was created with the following command. 
 
+```bash
+npx @vue/cli create counter
+```
+
 ![](https://aaron67-public.oss-cn-beijing.aliyuncs.com/202307300056377.png)
